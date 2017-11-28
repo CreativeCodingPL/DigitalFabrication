@@ -26,12 +26,29 @@ void setup() {
 }
 
 void draw() {
+
+  if (record) {
+    beginRaw(DXF, "output.dxf");
+  }
+
   background(220);
   lights();  
   float zm = 150;
   float sp = 0.001 * frameCount;
   camera(zm * cos(sp), zm * sin(sp), zm, 0, 0, 0, 0, 0, -1);
-  
+
   noStroke();
   skeleton.plot(10.f * float(mouseX) / (2.0f*width), float(mouseY) / (2.0*height));  // Thickness as parameter
+
+  if (record) {
+    endRaw();
+    record = false;
+  }
+}
+
+void keyPressed() {
+  // Use a key press so that it doesn't make a million files
+  if (key == 'r') {
+    record = true;
+  }
 }
