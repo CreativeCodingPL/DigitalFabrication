@@ -11,5 +11,5 @@
 Na zajęciach omówione zostanie zadanie podsumowujące moduł digital fabrication. Praca domowa to wstępny szkic w Processing pokazujący wybrany kierunek wykonania zadania na koniec semestru.
 
 ## Polecany link
-- [druk 3d w skali architektonicznej, fajnie inspiracje dla form 3d](http://thecloudlab.org/processing/library.html
-http://mx3d.com/)
+- [druk 3d w skali architektonicznej](http://thecloudlab.org/processing/library.html)
+- [fajnie inspiracje dla form 3d](http://mx3d.com/)
