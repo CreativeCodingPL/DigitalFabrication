@@ -6,7 +6,9 @@ Projekty Digital Fabrication będą częścią wystawy końcowej, a potem stanie
 
 ## Wymagania do projektu końcowego:
 
-- Nieprzekraczalny termin oddania to 14 grudnia 2017r.
+- Nieprzekraczalny termin oddania to 19 grudnia 2017r.
+- Produkcja prototypów: 12 grudnia 2017r.
+- Produkcja ostatecznych form: 14 grudnia 2017r.
 - Praca powinna składać się z dwóch części:
 
 1. Wycięty laserowo (w sklejce) wzór origami, nacięty wg. zaprojektowanych założeń w trójwymiarową formę. Format przed wygięciem do 3d: 30x30 cm. 
