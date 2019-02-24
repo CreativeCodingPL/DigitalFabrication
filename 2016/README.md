@@ -1,2 +1,0 @@
-# DigitalFabrication
-Digital Fabrication
