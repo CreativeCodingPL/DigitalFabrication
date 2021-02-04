@@ -14,7 +14,7 @@ Uproszczone wymiary steppera typu `28BYJ-48`
 
 Wymiary modułu z czujnikiem TCRT5000
 
-![](tcrt5000_module_dim.jpeg)
+![](tcrt5000_module_dim.png)
 
 Wymiary czujnika TCRT5000
 
