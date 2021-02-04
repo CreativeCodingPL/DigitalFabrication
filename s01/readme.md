@@ -12,6 +12,14 @@ Uproszczone wymiary steppera typu `28BYJ-48`
 
 ![](stepper_simple.png)
 
+Wymiary modułu z czujnikiem TCRT5000
+
+![](tcrt5000_module_dim.jpeg)
+
+Wymiary czujnika TCRT5000
+
+![](TCRT5000_dim.png)
+
 ### Wprowadzenie do obsługi Fusion 360
 - Koncepcja interfejsu
 - Gdzie są pliki
